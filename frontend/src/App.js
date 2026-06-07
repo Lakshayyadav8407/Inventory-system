@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const API = 'http://localhost:8000';
+const API = 'https://inventory-backend-xdc7.onrender.com';
+
 
 const styles = {
   root: {
