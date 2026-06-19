@@ -20,20 +20,6 @@ docker-compose up --build
 | Health Check  | http://localhost:8000/health     |
 
 ---
-
-## 📋 Submission Form Answers
-
-Fill your Google Form with these values:
-
-| Field                         | Value                                              |
-|-------------------------------|----------------------------------------------------|
-| GitHub Repository Link        | https://github.com/YOUR_USERNAME/inventory-system  |
-| Backend Docker Hub Image Link | https://hub.docker.com/r/YOUR_USERNAME/inventory-backend |
-| Frontend Hosted URL           | http://localhost:3000  (or your deployed URL)      |
-| Backend API Hosted URL        | http://localhost:8000  (or your deployed URL)      |
-
----
-
 ## 🚀 Push to GitHub
 
 ```bash
