@@ -1,7 +1,7 @@
 # Inventory & Order Management System
 
 Full-stack app: FastAPI + PostgreSQL backend, React frontend, Docker Compose orchestration.
-
+ 
 ---
 ## 🔑 API Endpoints
 
